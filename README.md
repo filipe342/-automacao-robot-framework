@@ -128,9 +128,4 @@ robot --loglevel DEBUG --outputdir reports tests/
 - Testes cross-browser  
 
 ---
-## 📩 Contato
-Dúvidas ou sugestões? Entre em contato!  
-💎 Email: contato@example.com  
-
----
 🚀 **Automatização bem-feita melhora a qualidade e confiabilidade dos sistemas!** 💡
