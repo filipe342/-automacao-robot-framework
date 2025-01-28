@@ -99,7 +99,6 @@ Relatórios gerados em `reports/`:
 - **Cadastro de Usuário Logado**  
 
 ### **API**
-- **Cadastro de Usuário** (`POST /usuarios`)
 - **Login** (`POST /login`)
 - **Cadastro de Produtos** (`POST /produtos`)
 - **Listagem de Produtos** (`GET /produtos`)
