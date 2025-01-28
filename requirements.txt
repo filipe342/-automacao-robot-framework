@@ -1,0 +1,19 @@
+# ===========================
+# 🔹 DEPENDÊNCIAS DO PROJETO
+# ===========================
+
+# 📌 Robot Framework
+robotframework==6.0.2
+robotframework-seleniumlibrary==6.1.3
+robotframework-requests==0.9.5
+
+# 📌 Bibliotecas do Robot Framework
+requests==2.31.0
+selenium==4.15.2
+
+# 📌 Ferramentas para JSON e Manipulação de Strings
+jsonschema==4.17.3
+lxml==4.9.2
+
+# 📌 Dependências Extras (Opcional)
+chromedriver-autoinstaller==0.6.2  # Instala automaticamente o ChromeDriver

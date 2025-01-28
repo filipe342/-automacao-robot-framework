@@ -1,0 +1,37 @@
+# =====================================
+# 🔹 IGNORAR ARQUIVOS DO SISTEMA
+# =====================================
+.DS_Store  # Arquivo do macOS
+Thumbs.db  # Arquivo do Windows
+*.swp      # Arquivo temporário do Vim
+
+# =====================================
+# 🔹 IGNORAR AMBIENTE VIRTUAL PYTHON
+# =====================================
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+pip-log.txt
+pip-delete-this-directory.txt
+
+# =====================================
+# 🔹 IGNORAR LOGS, OUTPUTS E RELATÓRIOS
+# =====================================
+logs/
+reports/
+log.html
+output.xml
+report.html
+*.log
+
+# =====================================
+# 🔹 IGNORAR DEPENDÊNCIAS E CACHE
+# =====================================
+node_modules/
+.env
+*.sqlite
+*.db
+*.cache
